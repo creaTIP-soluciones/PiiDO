@@ -3,11 +3,11 @@ title: "PiiDOmx"
 timezone: UTC
 baseurl: "/PiiDO"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/ii/Logo-400x150.png'
+favicon: 'assets/images/ii/favicon.ico'
 author: TIP
 paginate: 30
-disqus: 'demowebsite'
+#disqus: 'demowebsite'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -31,7 +31,7 @@ authors:
     #email: 
     web: http://www.piido.mx/
     #twitter: 
-    #description: 
+    #description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
     
   sal:
     name: Sal
