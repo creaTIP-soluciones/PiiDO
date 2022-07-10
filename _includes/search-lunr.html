@@ -5,8 +5,8 @@
 var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or page.url contains 'assets' %}{% else %}{
     "id": {{ counter }},
     //"url": "{{ site.url }}{{ page.url }}",
-    "url": "{{ site.baseurl }}{{ page.url }}",
-    //"url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+    //"url": "{{ site.baseurl }}{{ page.url }}",
+    "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
     //"url": "{{ page.url }}",
     //"url": "{{ site.baseurl }}",
     //"url": "{{ site.url }}",
@@ -15,8 +15,8 @@ var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or p
     }, {% endif %}{% endfor %}{% for page in site.without-plugin %}{
     "id": {{ counter }},
     //"url": "{{ site.url }}{{ page.url }}",
-    "url": "{{ site.baseurl }}{{ page.url }}",
-    //"url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+    //"url": "{{ site.baseurl }}{{ page.url }}",
+    "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
     //"url": "{{ page.url }}",
     //"url": "{{ site.baseurl }}",
     //"url": "{{ site.url }}",
