@@ -3,7 +3,7 @@ title: "PiiDOmx"
 timezone: UTC
 baseurl: "/PiiDO"
 permalink: "/:title/"
-logo: 'assets/images/ii/Logo-400x150.png'
+logo: 'assets/images/ii/Logo-200x75.png'
 favicon: 'assets/images/ii/favicon.ico'
 author: TIP
 paginate: 30
