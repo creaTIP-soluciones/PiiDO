@@ -46,7 +46,6 @@ gtag('config', '{{site.ganalytics}}');
           {% endif %}
           </a> | 
             
-          {% include search-lunr.html %}
              | 
             
           <div class="d-flex align-items-center">
@@ -93,6 +92,8 @@ gtag('config', '{{site.ganalytics}}');
       </nav>
     </div>  
 
+    {% include search-lunr.html %}
+    
 <!-- Search Results -->
     <div id="lunrsearchresults">
         <ul class="mb-0"></ul>
