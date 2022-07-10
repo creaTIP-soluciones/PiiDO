@@ -92,12 +92,18 @@ gtag('config', '{{site.ganalytics}}');
       </nav>
     </div>  
 
-    {% include search-lunr.html %}
     
-<!-- Search Results -->
+    
+<!-- Search Results NO FUNCIONA
     <div id="lunrsearchresults">
         <ul class="mb-0"></ul>
-    </div>
+    </div> -->
+
+<!-- Container para search
+================================================== -->    
+<main class="container">   
+      {% include search-lunr.html %}  
+</main>
     
 <!-- Container
 ================================================== -->    
