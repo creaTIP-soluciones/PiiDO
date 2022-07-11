@@ -3,7 +3,7 @@ layout: post
 title:  "Playeras Sabinas"
 author: TIP
 categories: [bordados, camisetas, diseños, gorras, personalización, playeras, Sabinas Hidalgo, servicios]
-image: assets/images/negocios/21-LOGO.png
+image: assets/images/info/21-LOGO.png
 ---
 
 ##### Servicios :
@@ -83,17 +83,17 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 </center>
 <!--..... /MAPAS .....-->
 
-<img src="assets/images/negocios/21-producto.jpg" alt="producto-servicio" width="200"/>
+<img src="assets/images/negocios/21-producto.jpg" alt="producto-servicio1" width="200"/>
 
-<img src="assets/images/negocios/21-producto.jpg" alt="producto-servicio" style="height: 100px; width:100px;"/>
+<img src="assets/images/negocios/21-producto.jpg" alt="producto-servicio2" style="height: 100px; width:100px;"/>
 
-![Playeras Sabinas](/assets/images/negocios/21-producto.jpg "Playeras Sabinas")
+![Playeras Sabinas](/assets/images/negocios/21-producto.jpg "Playeras Sabinas3")
 
 ![Playeras Sabinas](assets/images/negocios/21-producto.jpg)
 
-![Playeras Sabinas](/21-producto.jpg "Playeras Sabinas")
+![Playeras Sabinas](/21-producto.jpg "Playeras Sabinas5")
 
-![Playeras Sabinas](21-producto.jpg "Playeras Sabinas")
+![Playeras Sabinas](21-producto.jpg "Playeras Sabinas6")
 
 <br />
 
