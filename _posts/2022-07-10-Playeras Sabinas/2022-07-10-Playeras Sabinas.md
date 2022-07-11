@@ -20,8 +20,8 @@ Desde $120 hasta $400. Por cotización
 <!-- <table border="2" bordercolor="#8299b3" cellpadding="4" cellspacing="5" style="width: 50%;"> -->
 <table border="2" bordercolor="#8299b3">
 <colgroup>
-    <col width="30%" />
-    <col width="30%" />
+    <col width="50%" />
+    <col width="50%" />
 </colgroup>
     <tbody>
         <tr>
