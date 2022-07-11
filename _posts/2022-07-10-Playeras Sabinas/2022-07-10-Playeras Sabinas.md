@@ -83,32 +83,14 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 </center>
 <!--..... /MAPAS .....-->
 
-<img src="assets/images/iii/21producto.jpg" alt="producto-servicio1" width="200"/>
-
-<img src="assets/images/iii/21producto.jpg" alt="producto-servicio2" style="height: 100px; width:100px;"/>
-
-<img src="/assets/images/iii/21producto.jpg" alt="producto-servicio1" width="200"/>
-
-<img src="assets/images/iii/21producto.jpg" alt="producto-servicio2" style="height: 100px; width:100px;"/>
-
 <img src="21producto.jpg">
 
-<img src="/assets/images/iii/21producto.jpg">
-
+<img src="{{ site.baseurl }}/assets/images/iii/21producto.jpg">
 
 ![producto]({{ site.baseurl }}/assets/images/iii/21producto.jpg)
 
-![producto2](21producto.jpg)
-
 ![/assets/images/iii/21producto.jpg]({{ site.baseurl }}/assets/images/iii/21producto.jpg)
 
-![assets/images/iii/21producto.jpg]({{ site.baseurl }}/assets/images/iii/21producto.jpg)
-
-![/21producto.jpg]
-
-![21producto.jpg]
-
-[hola]("")
 
 <br />
 
