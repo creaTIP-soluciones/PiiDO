@@ -6,11 +6,6 @@ categories: [bordados, camisetas, diseños, gorras, personalización, playeras, 
 image: assets/images/negocios/21-LOGO.png
 ---
 ### Playeras Sabinas
-<div class="separator" style="clear: both; text-align: center;"><img border="0" data-original-height="701" data-original-width="701" height="320" width="320" src="file://LOGO.png"  /></div>
-
-<img src="/LOGO.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
-
-![[LOGO.png]]
 
 ##### Servicios :
 
@@ -89,14 +84,9 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 </center>
 <!--..... /MAPAS .....-->
 
-<img src="file://LOGO.png" border="0" data-original-height="701" data-original-width="701" height="320" width="320"/>
-
-<img src="/LOGO.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
-
-<img src="21-producto.jpg" alt="producto-servicio" width="200"/>
+<img src="assets/images/negocios/21-producto.jpg" alt="producto-servicio" width="200"/>
 
 <br />
-
 
 <center>
 	<span style="font-size: small; color: maroon;">
