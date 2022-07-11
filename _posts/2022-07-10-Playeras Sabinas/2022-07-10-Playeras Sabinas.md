@@ -3,7 +3,7 @@ layout: post
 title:  "Playeras Sabinas"
 author: TIP
 categories: [bordados, camisetas, diseños, gorras, personalización, playeras, Sabinas Hidalgo, servicios]
-image: assets/images/iii/21LOGO.png
+image: assets/images/ii-negocios/21LOGO.png
 ---
 
 ##### Servicios :
@@ -16,7 +16,7 @@ Desde $120 hasta $400. Por cotización
 
 ##### Horario :
 
-<table border="1" bordercolor="#8299b3" cellpadding="1" cellspacing="0" style="width: 40%;">
+<table border="1" bordercolor="#8299b3" cellpadding="1" cellspacing="0" style="width: 50%;">
   <tbody><tr>
     <td>Lunes Martes Miércoles Jueves Viernes</td>
     <td>09:00 a.m. - 09:00 p.m.</td>
@@ -84,9 +84,9 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 <!--..... /MAPAS .....-->
 
 
-<img src="{{ site.baseurl }}/assets/images/iii/21producto.jpg">
+<img src="{{ site.baseurl }}/assets/images/ii-negocios/21producto.jpg" alt="Playeras-Sabinas" style="height: 100px; width:100px;"/>
 
-![producto]({{ site.baseurl }}/assets/images/iii/21producto.jpg)
+![producto]({{ site.baseurl }}/assets/images/ii-negocios/21producto.jpg)
 
 
 <br />
