@@ -17,20 +17,22 @@ Desde $120 hasta $400. Por cotización
 
 ##### Horario :
 
-<table border="1" bordercolor="#8299b3" cellpadding="1" cellspacing="0" style="width: 70%;">
-  <tbody><tr>
-    <td>Lunes Martes Miércoles Jueves Viernes</td>
-    <td>09:00 a.m. - 09:00 p.m.</td>
-  </tr>
-  <tr>
-    <td>Sábado</td>
-    <td>08:00 a.m. - 04:00 p.m.</td>
-  </tr>
-<tr>
-    <td>Domingo</td>
-    <td>Previa cita</td>
-  </tr>
-</tbody></table>
+<table border="1" bordercolor="#8299b3" cellpadding="1" cellspacing="2" style="width: 70%;">
+    <tbody>
+        <tr>
+            <td>Lunes Martes Miércoles Jueves Viernes</td>
+            <td>09:00 a.m. - 09:00 p.m.</td>
+        </tr>
+        <tr>
+            <td>Sábado</td>
+            <td>08:00 a.m. - 04:00 p.m.</td>
+        </tr>
+        <tr>
+            <td>Domingo</td>
+            <td>Previa cita</td>
+        </tr>
+    </tbody>
+</table>
 
 | Dia(s) | Hora(s) |
 | ----- | ----- |
