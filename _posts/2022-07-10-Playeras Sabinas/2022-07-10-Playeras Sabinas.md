@@ -39,35 +39,38 @@ Desde $120 hasta $400. Por cotización
     </tbody>
 </table>
 
+<!--
 | Dia(s) | Hora(s) |
 | ----- | ----- |
 | Lunes Martes Miércoles Jueves Viernes | 09:00 a.m. - 09:00 p.m. |
 | Sábado | 08:00 a.m. - 04:00 p.m. |
 | Domingo | Previa cita |
+-->
 
 
 
-
-##### Sitios en Internet :
+##### Presencia en Internet :
 
 - [Facebook][FB]
 
-##### Teléfono :
+##### Teléfono(s) :
 
-- [Telefono][Tel1]
-- [Telefono][Tel2]
-
-- **Telefono1** : <a href="tel:+528241022925">824-102-2925</a>
-- **Telefono2** : <a href="tel:+528241026777">824-102-6777</a>
+- 824-102-2925 [LLAMAR][Tel1]
+- 824-102-6777 [LLAMAR][Tel2]
 
 ##### Whatsapp :
 
-- [Contactar por WhatsApp (1).][WA1]
-- [Contactar por WhatsApp (2).][WA2]
+- 824-102-2925 [Contactar por WhatsApp][WA1]
+- 824-102-6777 [Contactar por WhatsApp][WA2]
 
+
+<!--
+- **Telefono1** : <a href="tel:+528241022925">824-102-2925</a>
+- **Telefono2** : <a href="tel:+528241026777">824-102-6777</a>
 <b>WhatsApp</b> : 824-102-2925 ; <a href="https://wa.me/528241022925?text=Hola,%20saludos%20desde%20PiiDO." title="Contactar por WhatsApp."><i>Contactar por WhatsApp</i></a>
-
 <b>WhatsApp</b> : 824-102-6777 ; <a href="https://wa.me/528241026777?text=Hola,%20saludos%20desde%20PiiDO." title="Contactar por WhatsApp."><i>Contactar por WhatsApp</i></a>
+-->
+
 
 [FB]: https://www.facebook.com/PlayerasSabinas/
 
