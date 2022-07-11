@@ -18,6 +18,10 @@ Desde $120 hasta $400. Por cotización
 ##### Horario :
 
 <table border="2" bordercolor="#8299b3" cellpadding="4" cellspacing="5" style="width: 50%;">
+<colgroup>
+    <col width="60%" />
+    <col width="40%" />
+</colgroup>
     <tbody>
         <tr>
             <td>Lunes Martes Miércoles Jueves Viernes</td>
