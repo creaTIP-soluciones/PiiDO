@@ -89,6 +89,8 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 
 ![Playeras Sabinas](/assets/images/negocios/21-producto.jpg "Playeras Sabinas")
 
+![Playeras Sabinas](assets/images/negocios/21-producto.jpg)
+
 ![Playeras Sabinas](/21-producto.jpg "Playeras Sabinas")
 
 ![Playeras Sabinas](21-producto.jpg "Playeras Sabinas")
