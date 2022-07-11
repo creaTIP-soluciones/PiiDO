@@ -88,8 +88,6 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 
 ![producto]({{ site.baseurl }}/assets/images/iii/21producto.jpg)
 
-![/assets/images/iii/21producto.jpg]({{ site.baseurl }}/assets/images/iii/21producto.jpg)
-
 
 <br />
 
