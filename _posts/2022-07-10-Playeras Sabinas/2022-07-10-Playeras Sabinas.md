@@ -55,13 +55,13 @@ Desde $120 hasta $400. Por cotización
 
 ##### Teléfono(s) :
 
-- 824-102-2925 [LLAMAR][Tel1]
-- 824-102-6777 [LLAMAR][Tel2]
+- 824-102-2925 ; [LLAMAR][Tel1]
+- 824-102-6777 ; [LLAMAR][Tel2]
 
 ##### Whatsapp :
 
-- 824-102-2925 [Contactar por WhatsApp][WA1]
-- 824-102-6777 [Contactar por WhatsApp][WA2]
+- 824-102-2925 ; [Contactar por WhatsApp][WA1]
+- 824-102-6777 ; [Contactar por WhatsApp][WA2]
 
 
 <!--
