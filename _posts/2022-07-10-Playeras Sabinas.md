@@ -3,7 +3,7 @@ layout: post
 title:  "Playeras Sabinas"
 author: TIP
 categories: [bordados, camisetas, diseños, gorras, personalización, playeras, Sabinas Hidalgo, servicios]
-image: assets/images/ii/Logo-400x150.png
+image: assets/images/negocios/21-LOGO.png
 ---
 ### Playeras Sabinas
 <div class="separator" style="clear: both; text-align: center;"><img border="0" data-original-height="701" data-original-width="701" height="320" width="320" src="file://LOGO.png"  /></div>
@@ -80,17 +80,21 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 
 <!--..... MAPAS .....-->
 <center>
-		<iframe allowfullscreen="" aria-hidden="false" frameborder="0" height="250" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3570.316445809042!2d-100.19562388459714!3d26.509945283693714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86623e962e29f42f%3A0xb4e622d397d3d472!2sJos%C3%A9%20Guadiana%20180%2C%20Real%20Las%20Palmas%2C%2065230%20Sabinas%20Hidalgo%2C%20N.L.!5e0!3m2!1ses-419!2smx!4v1603139704384!5m2!1ses-419!2smx" style="border: 0;" tabindex="0" width="300"></iframe><!--//CAMBIAR : width="300" height="250" acá arriba ^^-->
-		<br />
-		<br />
-		<a href="https://goo.gl/maps/tdKmFTx687hGh2Hs8" target="_blank"><h4>[ Ver en Google Maps ]</h4></a><!--//CAMBIAR únicamente URL aquí-->
-		<br />
-		<br />
-	</center>
+    <iframe allowfullscreen="" aria-hidden="false" frameborder="0" height="250" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3570.316445809042!2d-100.19562388459714!3d26.509945283693714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86623e962e29f42f%3A0xb4e622d397d3d472!2sJos%C3%A9%20Guadiana%20180%2C%20Real%20Las%20Palmas%2C%2065230%20Sabinas%20Hidalgo%2C%20N.L.!5e0!3m2!1ses-419!2smx!4v1603139704384!5m2!1ses-419!2smx" style="border: 0;" tabindex="0" width="300"></iframe><!--//CAMBIAR : width="300" height="250" acá arriba ^^-->
+	<br />
+	<br />
+	<a href="https://goo.gl/maps/tdKmFTx687hGh2Hs8" target="_blank"><h4>[ Ver en Google Maps ]</h4></a><!--//CAMBIAR únicamente URL aquí-->
+	<br />
+	<br />
+</center>
 <!--..... /MAPAS .....-->
 
+<img src="file://LOGO.png" border="0" data-original-height="701" data-original-width="701" height="320" width="320"/>
 
-![[producto.jpg]]
+<img src="/LOGO.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
+<img src="21-producto.jpg" alt="producto-servicio" width="200"/>
+
 <br />
 
 
