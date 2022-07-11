@@ -18,10 +18,10 @@ Desde $120 hasta $400. Por cotización
 ##### Horario :
 
 <!-- <table border="2" bordercolor="#8299b3" cellpadding="4" cellspacing="5" style="width: 50%;"> -->
-<table border="2" bordercolor="#8299b3">
+<table border="1" bordercolor="#8299b3" cellpadding="4" cellspacing="5">
 <colgroup>
-    <col width="50%" />
-    <col width="50%" />
+    <col width="55%" />
+    <col width="45%" />
 </colgroup>
     <tbody>
         <tr>
