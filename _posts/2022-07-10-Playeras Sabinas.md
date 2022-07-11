@@ -44,16 +44,16 @@ Desde $120 hasta $400. Por cotización
 
 ##### Teléfono :
 
-[Telefono][Tel1]
-[Telefono][Tel2]
+- [Telefono][Tel1]
+- [Telefono][Tel2]
 
-**Telefono1** : <a href="tel:+528241022925">824-102-2925</a>
-**Telefono2** : <a href="tel:+528241026777">824-102-6777</a>
+- **Telefono1** : <a href="tel:+528241022925">824-102-2925</a>
+- **Telefono2** : <a href="tel:+528241026777">824-102-6777</a>
 
 ##### Whatsapp :
 
-[Contactar por WhatsApp (1).][WA1]
-[Contactar por WhatsApp (2).][WA2]
+- [Contactar por WhatsApp (1).][WA1]
+- [Contactar por WhatsApp (2).][WA2]
 
 <b>WhatsApp</b> : 824-102-2925 ; <a href="https://wa.me/528241022925?text=Hola,%20saludos%20desde%20PiiDO." title="Contactar por WhatsApp."><i>Contactar por WhatsApp</i></a>
 
@@ -84,7 +84,7 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 </center>
 <!--..... /MAPAS .....-->
 
-<img src="assets/images/negocios/21-producto.jpg" alt="producto-servicio" width="200"/>
+<img src="/assets/images/negocios/21-producto.jpg" alt="producto-servicio" width="200"/>
 
 <br />
 
