@@ -2,7 +2,7 @@
 layout: post
 title:  "KIRAL Psicología y Terapia Ocupacional"
 author: tip
-categories: [servicios, terapia, consultorios, Sabinas Hidalgo]
+categories: [servicios, terapias, consultorios, Sabinas Hidalgo]
 image: assets/images/ii-negocios/43LOGO.png
 ---
 #### Terapias y Estimulación Sensorial
@@ -80,7 +80,7 @@ Mier y Terán #340, Centro, Sabinas Hidalgo, N.L.
 ================================================== -->
 <center>
 	<span style="font-size: small; color: maroon;">
-	<!-- AVISO -->La información aquí mostrada fué proporcionada por un representante del negocio, o bien, <br />recolectada de diferentes medios de internet debido a la naturaleza pública de la misma.
+	<!-- AVISO -->La información aquí mostrada fué proporcionada por un representante del negocio, o bien, <br />recolectada de diferentes medios de Internet debido a la naturaleza pública de la misma.
 	</span>
 </center><br />
 

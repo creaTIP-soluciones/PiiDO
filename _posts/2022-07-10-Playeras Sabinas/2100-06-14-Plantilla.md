@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Playeras Sabinas"
-author: TIP
+author: tip
 categories: [bordados, camisetas, diseños, gorras, personalización, playeras, Sabinas Hidalgo, servicios]
 image: assets/images/ii-negocios/21LOGO.png
 ---
@@ -89,7 +89,7 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 ================================================== -->
 <center>
 	<span style="font-size: small; color: maroon;">
-	<!-- AVISO -->La información aquí mostrada fué proporcionada por un representante del negocio, o bien, <br />recolectada de diferentes medios de internet debido a la naturaleza pública de la misma.
+	<!-- AVISO -->La información aquí mostrada fué proporcionada por un representante del negocio, o bien, <br />recolectada de diferentes medios de Internet debido a la naturaleza pública de la misma.
 	</span>
 </center><br />
 
