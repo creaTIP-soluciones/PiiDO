@@ -10,7 +10,7 @@ image: assets/images/ii/PiiDOpmx-fneg-620x140.png
 <br />
 <br />
 
-**Comunícate** por <b>WhatsApp</b> : 824-100-5820 ; [Escríbenos por WhatsApp][WA1]
+**Comunícate** por <b>[WhatsApp][WA1]</b> al 824-100-5820 
 
 <br />
 
@@ -19,7 +19,7 @@ image: assets/images/ii/PiiDOpmx-fneg-620x140.png
 <br />
 <br />
 
-**Denúncialo** por <b>WhatsApp</b> : 824-100-5820 ; [Escríbenos por WhatsApp][WA2]
+**Denúncialo** por <b>[WhatsApp][WA2]</b> al 824-100-5820 
 
 <br />
 
