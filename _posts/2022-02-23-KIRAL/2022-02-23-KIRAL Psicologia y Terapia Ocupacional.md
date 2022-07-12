@@ -18,8 +18,8 @@ image: assets/images/ii-negocios/43LOGO.png
 
 <table border="2" bordercolor="#8299b3" cellpadding="4" cellspacing="5">
 <colgroup>
-    <col width="60%" />
-    <col width="40%" />
+    <col width="50%" />
+    <col width="50%" />
 </colgroup>
     <tbody>
         <tr>
