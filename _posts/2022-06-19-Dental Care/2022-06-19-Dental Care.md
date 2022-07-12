@@ -2,7 +2,7 @@
 layout: post
 title:  "Dental Care"
 author: tip
-categories: [servicios, eventos, Sabinas Hidalgo, snacks, personalización,]
+categories: [servicios, consultorios, medicos, dentistas, Sabinas Hidalgo]
 image: assets/images/ii-negocios/39LOGO.png
 ---
 #### Tratamientos dentales para toda la familia
