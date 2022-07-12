@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Playeras Sabinas"
-author: TIP
+author: creaTIP
 categories: [bordados, camisetas, diseños, gorras, personalización, playeras, Sabinas Hidalgo, servicios]
 image: assets/images/ii-negocios/21LOGO.png
 ---
