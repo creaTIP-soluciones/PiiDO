@@ -5,27 +5,25 @@ permalink: "/anunciate/"
 image: assets/images/ii/PiiDOpmx-fneg-620x140.png
 ---
 
-#### ¿Quieres que tu negocio sea anunciado? (Totalmente <b>SIN costo</b>)
+#### ¿Quieres que tu negocio sea anunciado?
 
-<br />
-<br />
+Totalmente <b>SIN costo</b> para ti o tus clientes. Sólo tienes que
 
-**Comunícate** por <b>[WhatsApp][WA1]</b> al 824-100-5820 
+**Comunicarte** por <b>WhatsApp</b> al [824-100-5820][WA1] (sólo toca el enlace)
 
 <br />
 
 #### ¿Conoces un negocio que deba estar anunciado?
 
-<br />
+Apóyalo a que sea conocido por mas gente y 
+
+**Denúncialo** por <b>WhatsApp</b> [al 824-100-5820][WA2] (sólo toca el enlace)
+
 <br />
 
-**Denúncialo** por <b>[WhatsApp][WA2]</b> al 824-100-5820 
-
+creaTIP Soluciones ; Estamos en [Facebook][FB]
 <br />
-
-creaTIP Soluciones ; [Estamos en Facebook][FB]
-<br />
-824-100-5820 ; [LLÁMANOS][Tel1]
+824-100-5820 ; [LLÁMANOS][Tel1] (sólo toca el enlace)
 
 <br />
 
