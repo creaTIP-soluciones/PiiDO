@@ -95,7 +95,7 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 
 <center>
 	<span style="font-size: xx-small;">
-		<!--Palabras Clave-->playera playeras camiseta camisetas taza tazas personalizada personalizadas sublimacion serigrafia gorra gorras bordado bordados polo polos
+		<!--Palabras Clave-->playera playeras camiseta camisetas estampado estampados taza tazas personalizada personalizadas personalizado personalizados sublimacion sublimaciones serigrafia serigrafias gorra gorras bordado bordados bordada bordadas polo polos
 	</span>
 </center>
 
