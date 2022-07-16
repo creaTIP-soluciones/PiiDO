@@ -74,7 +74,7 @@ San José de Raíces 446, Fovissste, Sabinas Hidalgo, N.L.
 
 <!-- ===== 2da IMAGEN ===== --> 
 <center>
-    <img src="{{ site.baseurl }}/assets/images/ii-negocios/08producto.jpg" alt="Playeras-Sabinas" style="height: 300px;"/>
+    <img src="{{ site.baseurl }}/assets/images/ii-negocios/08producto.png" alt="Just-Sabinas" style="height: 300px;"/>
 </center>
 
 <br />
