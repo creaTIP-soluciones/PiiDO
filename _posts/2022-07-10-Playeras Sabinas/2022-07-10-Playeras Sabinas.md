@@ -87,9 +87,10 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 
 <!-- Disclaimer & palabras clave
 ================================================== -->
+{% include postbox.html %}
 <center>
 	<span style="font-size: small; color: maroon;">
-	<!-- AVISO -->La información aquí mostrada fué proporcionada por un representante del negocio, o bien, <br />recolectada de diferentes medios de Internet debido a la naturaleza pública de la misma.
+	<!-- AVISO -->AAALa información aquí mostrada fué proporcionada por un representante del negocio, o bien, <br />recolectada de diferentes medios de Internet debido a la naturaleza pública de la misma.
 	</span>
 </center><br />
 
