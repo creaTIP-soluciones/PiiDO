@@ -241,8 +241,12 @@ $RECYCLE.BIN/
 ############
 
 .DS_Store
+*/.DS_Store
+_sass/.DS_Store
+
+
 #---
 
 
 
-_sass/.DS_Store
+
