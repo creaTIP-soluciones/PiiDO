@@ -25,11 +25,11 @@ De $25 a $60
     <tbody>
         <tr>
             <td>Lunes Martes Miércoles Jueves Viernes</td>
-            <td>09:00 a.m. - 02:00 p.m.</td>
+            <td>08:00 a.m. - 02:00 p.m.</td>
         </tr>
         <tr>
-            <td>Sábado Domingo</td>
-            <td>09:00 a.m. - 07:00 p.m.</td>
+            <td>Sábado</td>
+            <td>08:00 a.m. - 02:00 p.m.</td>
         </tr>
     </tbody>
 </table>
