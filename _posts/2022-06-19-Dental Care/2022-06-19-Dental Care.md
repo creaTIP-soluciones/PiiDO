@@ -86,15 +86,10 @@ Calle Naranjo 910, Colonia Pablo de los Santos, Sabinas Hidalgo, N.L.
 
 <!-- Disclaimer & palabras clave
 ================================================== -->
-<center>
-	<span style="font-size: small; color: maroon;">
-	<!-- AVISO -->La información aquí mostrada fué proporcionada por un representante del negocio, o bien, <br />recolectada de diferentes medios de internet debido a la naturaleza pública de la misma.
-	</span>
-</center><br />
-
+{% include disclaimer-ii.md %}
 <center>
 	<span style="font-size: xx-small;">
-		<!--Palabras Clave-->dentista dentistas consulta consultas consultorio consultorios limpieza limpiezas dental dentales resina resinas blanqueamiento blanqueamientos rayos x protesis corona coronas puente puentes
+		<!--Palabras Clave-->playera playeras camiseta camisetas estampado estampados taza tazas personalizada personalizadas personalizado personalizados sublimacion sublimaciones serigrafia serigrafias gorra gorras bordado bordados bordada bordadas polo polos
 	</span>
 </center>
 

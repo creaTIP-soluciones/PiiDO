@@ -81,15 +81,10 @@ San José de Raíces 446, Fovissste, Sabinas Hidalgo, N.L.
 
 <!-- Disclaimer & palabras clave
 ================================================== -->
-<center>
-	<span style="font-size: small; color: maroon;">
-	<!-- AVISO -->La información aquí mostrada fué proporcionada por un representante del negocio, o bien, <br />recolectada de diferentes medios de Internet debido a la naturaleza pública de la misma.
-	</span>
-</center><br />
-
+{% include disclaimer-ii.md %}
 <center>
 	<span style="font-size: xx-small;">
-		<!--Palabras Clave-->crema cremas aceite aceites aromaterapia aromaterapias cosmetico cosmeticos belleza bellezas
+		<!--Palabras Clave-->playera playeras camiseta camisetas estampado estampados taza tazas personalizada personalizadas personalizado personalizados sublimacion sublimaciones serigrafia serigrafias gorra gorras bordado bordados bordada bordadas polo polos
 	</span>
 </center>
 
