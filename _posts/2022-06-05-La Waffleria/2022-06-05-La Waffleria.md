@@ -36,7 +36,7 @@ De $25 a $60
 
 
 
-| ? | ! |
+|  |  |
 | :----- | :-----: |
 | ¿Se puede comer ahí? | **Si** |
 | ¿Entrega a domicilio? | **No** |
