@@ -84,7 +84,7 @@ Calle Pablo Ancira 665 entre Ocampo y Guerrero, Barrio del Aguacate, Sabinas Hid
 {% include disclaimer-ii.md %}
 <center>
 	<span style="font-size: xx-small;">
-		<!--Palabras Clave-->playera playeras camiseta camisetas estampado estampados taza tazas personalizada personalizadas personalizado personalizados sublimacion sublimaciones serigrafia serigrafias gorra gorras bordado bordados bordada bordadas polo polos
+		<!--Palabras Clave-->snack snacks botana botanas dulce dulces fruta frutas evento eventos
 	</span>
 </center>
 
