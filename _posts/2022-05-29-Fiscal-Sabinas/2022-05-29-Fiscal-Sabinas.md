@@ -84,7 +84,7 @@ Mier y Terán 1050 (entre Ignacio Ramírez y Altamirano), Centro, Sabinas Hidalg
 
 <!-- ===== 2da IMAGEN ===== --> 
 <center>
-    <img src="{{ site.baseurl }}/assets/images/ii-negocios/29servicio.png" alt="Fiscal-Sabinas" style="height: 300px;"/>
+    <img src="{{ site.baseurl }}/assets/images/ii-negocios/29servicio.png" alt="Fiscal-Sabinas" style="height: 450px;"/>
 </center>
 
 <br />
