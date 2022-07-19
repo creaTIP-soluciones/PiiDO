@@ -18,7 +18,7 @@ image: assets/images/ii-negocios/29LOGO.png
 - Suspencion de actividades o cambios de situacion.
 - Servicios ante IMSS e INFONAVIT.
 
-###### Servicios adicionales :
+##### Servicios adicionales :
 - Calculo y timbrado de nominas
 - Tramite y servicio de facturacion
 - Organizacion de XML y su facturacion
