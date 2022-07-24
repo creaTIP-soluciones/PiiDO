@@ -8,7 +8,7 @@ image: assets/images/ii-negocios/11LOGO.png
 ---
 #### Sushi sencillo y en combo
 
-##### Producto/Servicios :
+##### Productos/Servicios :
 
 Rollos sencillos y en combo
 

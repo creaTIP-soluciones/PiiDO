@@ -3,11 +3,12 @@ layout: post
 title:  "Crazy Snacks"
 author: tip
 categories: [servicios, eventos, Sabinas Hidalgo, snacks, personalización]
+permalink: "/Crazy-Snacks/"
 image: assets/images/ii-negocios/42LOGO.png
 ---
 #### Botanas para tu evento
 
-##### Servicios :
+##### Productos/Servicios :
 
 Carrito botanero, dulces papitas y fruta. Proximamente contaremos con tostitos con queso y elotes
 

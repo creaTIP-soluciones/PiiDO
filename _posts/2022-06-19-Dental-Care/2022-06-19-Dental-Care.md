@@ -3,11 +3,12 @@ layout: post
 title:  "Dental Care"
 author: tip
 categories: [servicios, consultorios, medicos, dentistas, Sabinas Hidalgo]
+permalink: "/Dental-Care/"
 image: assets/images/ii-negocios/39LOGO.png
 ---
 #### Tratamientos dentales para toda la familia
 
-##### Servicios :
+##### Productos/Servicios :
 
 - Limpiezas dentales
 - Resinas
@@ -79,7 +80,7 @@ Calle Naranjo 910, Colonia Pablo de los Santos, Sabinas Hidalgo, N.L.
 
 <!-- ===== 2da IMAGEN ===== --> 
 <center>
-    <img src="{{ site.baseurl }}/assets/images/ii-negocios/39servicio.png" alt="Crazy-Snacks" style="height: 300px;"/>
+    <img src="{{ site.baseurl }}/assets/images/ii-negocios/39servicio.png" alt="Dental-Care" style="height: 300px;"/>
 </center>
 
 <br />

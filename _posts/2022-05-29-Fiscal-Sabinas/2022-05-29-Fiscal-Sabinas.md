@@ -3,11 +3,12 @@ layout: post
 title:  "Fiscal Sabinas"
 author: tip
 categories: [servicios, asesorias, pagos, impuestos, contabilidad, Sabinas Hidalgo]
+permalink: "/Fiscal-Sabinas/"
 image: assets/images/ii-negocios/29LOGO.png
 ---
 #### Contabilidad e impuestos
 
-##### Producto/Servicios :
+##### Productos/Servicios :
 
 - Calculo y Pago de impuestos de Personas Fisicas y Morales
 - Envio de Contabilidad Electronica

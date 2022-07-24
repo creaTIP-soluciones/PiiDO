@@ -8,7 +8,7 @@ image: assets/images/ii-negocios/35LOGO.png
 ---
 #### Desayunos, almuerzos y postres
 
-##### Producto/Servicios :
+##### Productos/Servicios :
 
 Waffles, crepas, desayunos, malteadas y lattes
 
