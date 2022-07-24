@@ -3,6 +3,7 @@ layout: post
 title:  "Midori Sushi"
 author: tip
 categories: [sushis, Sabinas Hidalgo]
+permalink: "/midori-123/"
 image: assets/images/ii-negocios/11LOGO.png
 ---
 #### Desayunos, almuerzos y postres
@@ -19,8 +20,8 @@ De $70 a $130
 
 <table border="2" bordercolor="#8299b3" cellpadding="4" cellspacing="5">
 <colgroup>
-    <col width="60%" />
-    <col width="40%" />
+    <col width="50%" />
+    <col width="50%" />
 </colgroup>
     <tbody>
         <tr>
