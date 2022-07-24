@@ -3,6 +3,7 @@ layout: post
 title:  "La Waffleria"
 author: tip
 categories: [desayunos, waffles, crepas, Sabinas Hidalgo, malteadas, almuerzos, postres]
+permalink: "/La-Waffleria/"
 image: assets/images/ii-negocios/35LOGO.png
 ---
 #### Desayunos, almuerzos y postres
