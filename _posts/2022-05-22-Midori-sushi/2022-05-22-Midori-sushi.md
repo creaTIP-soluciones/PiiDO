@@ -2,8 +2,8 @@
 layout: post
 title:  "Midori Sushi"
 author: tip
-categories: [sushis, Sabinas Hidalgo]
-permalink: "/midori-123/"
+categories: [comidas, sushis, Sabinas Hidalgo]
+permalink: "/Midori-Sushi/"
 image: assets/images/ii-negocios/11LOGO.png
 ---
 #### Desayunos, almuerzos y postres
