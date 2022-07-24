@@ -3,6 +3,7 @@ layout: post
 title:  "Playeras Sabinas"
 author: tip
 categories: [bordados, camisetas, diseños, gorras, personalización, playeras, Sabinas Hidalgo, servicios]
+permalink: "/culero/"
 image: assets/images/ii-negocios/21LOGO.png
 ---
 #### Estampamos tus ideas
