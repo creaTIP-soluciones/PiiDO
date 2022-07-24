@@ -6,7 +6,7 @@ categories: [comidas, sushis, Sabinas Hidalgo]
 permalink: "/Midori-Sushi/"
 image: assets/images/ii-negocios/11LOGO.png
 ---
-#### Desayunos, almuerzos y postres
+#### Sushi sencillo y en combo
 
 ##### Producto/Servicios :
 
