@@ -3,7 +3,7 @@ layout: post
 title:  "Crazy Snacks"
 author: tip
 categories: [servicios, eventos, Sabinas Hidalgo, snacks, personalización]
-permalink: "/Crazy-Snacks/"
+permalink: "/crazy-snacks/"
 image: assets/images/ii-negocios/42LOGO.png
 ---
 #### Botanas para tu evento

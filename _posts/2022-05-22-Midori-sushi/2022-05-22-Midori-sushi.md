@@ -3,7 +3,7 @@ layout: post
 title:  "Midori Sushi"
 author: tip
 categories: [comidas, sushis, Sabinas Hidalgo]
-permalink: "/Midori-Sushi/"
+permalink: "/midori-sushi/"
 image: assets/images/ii-negocios/11LOGO.png
 ---
 #### Sushi sencillo y en combo
