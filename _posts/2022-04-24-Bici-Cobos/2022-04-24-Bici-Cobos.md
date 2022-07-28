@@ -14,7 +14,7 @@ Reparación y venta de refacciones de bicicleta y motocicleta
 
 ##### Precios :
 
-Refacciones: de $0.50 a $600 ; Mano de obra: de $5.00 a $200.00
+**Refacciones**: de $0.50 a $600 ; **Mano de obra**: de $5.00 a $200.00
 
 ##### Horario :
 
