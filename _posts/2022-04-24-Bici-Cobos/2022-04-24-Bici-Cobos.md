@@ -14,7 +14,7 @@ Reparación y venta de refacciones de bicicleta y motocicleta
 
 ##### Precios :
 
-**Refacciones**: de $0.50 a $600 ; **Mano de obra**: de $5.00 a $200.00
+Refacciones: de $0.50 a $600 ; Mano de obra: de $5.00 a $200.00
 
 ##### Horario :
 
@@ -26,11 +26,11 @@ Reparación y venta de refacciones de bicicleta y motocicleta
     <tbody>
         <tr>
             <td>Lunes Martes Miércoles Jueves Viernes</td>
-            <td>10:00 a.m. - 12:00 p.m. y 03:00 p.m. - 06:30 p.m.</td>
+            <td>10:00 a.m. - 12:00 p.m. y <br />03:00 p.m. - 06:30 p.m.</td>
         </tr>
         <tr>
             <td>Sábado</td>
-            <td>09:30 a.m. - 01:00 p.m. y 02:00 p.m. - 04:00 p.m.</td>
+            <td>09:30 a.m. - 01:00 p.m. y <br />02:00 p.m. - 04:00 p.m.</td>
         </tr>
     </tbody>
 </table>
