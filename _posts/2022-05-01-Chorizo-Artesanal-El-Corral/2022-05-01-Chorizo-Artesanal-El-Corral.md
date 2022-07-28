@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Playeras Sabinas"
+title:  "Chorizo Artesanal “El Corral”"
 author: tip
-categories: [bordados, camisetas, diseños, gorras, personalización, playeras, Sabinas Hidalgo, servicios]
-permalink: "/playeras-sabinas/"
-image: assets/images/ii-negocios/21LOGO.png
+categories: [chorizo, artesanal, Sabinas Hidalgo]
+permalink: "/chorizo-artesanal-el-corral/"
+image: assets/images/ii-negocios/15LOGO.png
 ---
 #### Estampamos tus ideas
 
 ##### Productos/Servicios :
 
-Playeras, tazas, gorras, termos y artículos promocionales personalizados; con Sublimación, Serigrafía y Bordados.
+Chorizo de puerco elaborado de manera artesanal
 
 ##### Precios :
 
-Desde $120 hasta $400. Por cotización
+(llamar)
 
 ##### Horario :
 
@@ -26,15 +26,11 @@ Desde $120 hasta $400. Por cotización
     <tbody>
         <tr>
             <td>Lunes Martes Miércoles Jueves Viernes</td>
-            <td>09:00 a.m. - 09:00 p.m.</td>
+            <td>08:00 a.m. - 08:00 p.m.</td>
         </tr>
         <tr>
-            <td>Sábado</td>
-            <td>08:00 a.m. - 04:00 p.m.</td>
-        </tr>
-        <tr>
-            <td>Domingo</td>
-            <td>Previa cita</td>
+            <td>Sábado Domingo</td>
+            <td>08:00 a.m. - 08:00 p.m.</td>
         </tr>
     </tbody>
 </table>
@@ -45,35 +41,31 @@ Desde $120 hasta $400. Por cotización
 
 ##### Teléfono(s) :
 
-- 824-102-2925 ; [LLAMAR][Tel1]
-- 824-102-6777 ; [LLAMAR][Tel2]
+- 811-518-0571 ; [LLAMAR][Tel1]
 
 ##### Whatsapp :
 
-- 824-102-2925 ; [Contactar por WhatsApp][WA1]
-- 824-102-6777 ; [Contactar por WhatsApp][WA2]
+- 811-518-0571 ; [Contactar por WhatsApp][WA1]
 
 
-[FB]: https://www.facebook.com/PlayerasSabinas/
+[FB]: https://www.facebook.com/Chorizo-Artesanal-El-Corral-100463651743445/
 
-[Tel1]: tel:+528241022925
-[Tel2]: tel:+528241026777
+[Tel1]: tel:+528115180571
 
-[WA1]: https://wa.me/528241022925?text=Hola,%20saludos%20desde%20PiiDO
-[WA2]: https://wa.me/528241026777?text=Hola,%20saludos%20desde%20PiiDO
+[WA1]: https://wa.me/528115180571?text=Hola,%20saludos%20desde%20PiiDO
 
 ##### Dirección :
 
-Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
+Gregorio Ramírez 930, Pablo de Los Santos, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 
 <!--..... MAPAS .....-->
 <center>
-    <iframe allowfullscreen="" aria-hidden="false" frameborder="0" height="250" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3570.316445809042!2d-100.19562388459714!3d26.509945283693714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86623e962e29f42f%3A0xb4e622d397d3d472!2sJos%C3%A9%20Guadiana%20180%2C%20Real%20Las%20Palmas%2C%2065230%20Sabinas%20Hidalgo%2C%20N.L.!5e0!3m2!1ses-419!2smx!4v1603139704384!5m2!1ses-419!2smx" style="border: 0;" tabindex="0" width="300"></iframe><!--//CAMBIAR : width="300" height="250" acá arriba ^^-->
+    <iframe allowfullscreen="" aria-hidden="false" frameborder="0" height="250" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3570.365656606191!2d-100.17256994894035!3d26.508361983221473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86623eb4b2c66b8f%3A0x3cd865097b95b5de!2sGregorio%20Ram%C3%ADrez%20930%2C%20Pablo%20de%20Los%20Santos%2C%2065210%20Sabinas%20Hidalgo%2C%20N.L.!5e0!3m2!1sen!2smx!4v1598501044480!5m2!1sen!2smx" style="border: 0;" tabindex="0" width="300"></iframe><!--//CAMBIAR : width="300" height="250" acá arriba ^^-->
+    <br />
 	<br />
-	<br />
-	<a href="https://goo.gl/maps/tdKmFTx687hGh2Hs8" target="_blank"><h4>[ Ver en Google Maps ]</h4></a><!--//CAMBIAR únicamente URL aquí-->
+	<a href="https://goo.gl/maps/W4CPzuxnXty1FUeM8" target="_blank"><h4>[ Ver en Google Maps ]</h4></a><!--//CAMBIAR únicamente URL aquí-->
 	<br />
 	<br />
 </center>
@@ -81,7 +73,7 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 
 <!-- ===== 2da IMAGEN ===== --> 
 <center>
-    <img src="{{ site.baseurl }}/assets/images/ii-negocios/21producto.png" alt="Playeras-Sabinas" style="height: 300px;"/>
+    <img src="{{ site.baseurl }}/assets/images/ii-negocios/15producto.png" alt="Chorizo-Artesanal-El-Corral" style="height: 300px;"/>
 </center>
 
 <br />
@@ -91,7 +83,7 @@ Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
 {% include disclaimer-ii.md %}
 <center>
 	<span style="font-size: xx-small;">
-		<!--Palabras Clave-->playera playeras camiseta camisetas estampado estampados taza tazas personalizada personalizadas personalizado personalizados sublimacion sublimaciones serigrafia serigrafias gorra gorras bordado bordados bordada bordadas polo polos
+		<!--Palabras Clave-->chorizo chorizos artesanal artesanales 
 	</span>
 </center>
 
