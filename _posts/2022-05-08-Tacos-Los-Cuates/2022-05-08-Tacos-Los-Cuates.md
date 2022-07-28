@@ -47,18 +47,18 @@ De $65 a $100
 
 ##### Teléfono(s) :
 
-- 824-105-0859 ; [LLAMAR][Tel1]
+- 812-724-8847 ; [LLAMAR][Tel1]
 
 ##### Whatsapp :
 
-- 824-105-0859 ; [Contactar por WhatsApp][WA1]
+- 812-724-8847 ; [Contactar por WhatsApp][WA1]
 
 
 [FB]: https://www.facebook.com/Tacos-y-Hamburguesas-Los-Cuates-100972998209757/
 
-[Tel1]: tel:+528241050859
+[Tel1]: tel:+528127248847
 
-[WA1]: https://wa.me/528241050859?text=Hola,%20saludos%20desde%20PiiDO
+[WA1]: https://wa.me/528127248847?text=Hola,%20saludos%20desde%20PiiDO
 
 ##### Dirección :
 
