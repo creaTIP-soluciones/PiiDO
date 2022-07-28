@@ -6,7 +6,7 @@ categories: [hamburguesas, tacos, Sabinas Hidalgo]
 permalink: "/tacos-los-cuates/"
 image: assets/images/ii-negocios/05LOGO.png
 ---
-#### Estampamos tus ideas
+#### Ricos Tacos y Hamburguesas
 
 ##### Productos/Servicios :
 
