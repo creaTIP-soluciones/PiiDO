@@ -2,7 +2,7 @@
 layout: post
 title:  "Tacos Los Cuates"
 author: tip
-categories: [hamburguesas, tacos, Sabinas Hidalgo]
+categories: [hamburguesas, tacos, cenas, Sabinas Hidalgo]
 permalink: "/tacos-los-cuates/"
 image: assets/images/ii-negocios/05LOGO.png
 ---
