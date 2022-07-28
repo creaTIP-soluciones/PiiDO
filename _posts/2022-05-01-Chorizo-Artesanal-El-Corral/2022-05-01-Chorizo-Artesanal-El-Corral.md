@@ -6,7 +6,7 @@ categories: [chorizo, artesanal, Sabinas Hidalgo]
 permalink: "/chorizo-artesanal-el-corral/"
 image: assets/images/ii-negocios/15LOGO.png
 ---
-#### Estampamos tus ideas
+#### Chorizo Artesanal
 
 ##### Productos/Servicios :
 
