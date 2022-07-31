@@ -28,14 +28,23 @@ footermenu:
 
 - title: Inicio
   url: ""
-
+  
 - title: Anúnciate en PiiDO
   url: "anunciate/"
   
+- title: ¿Qué es ésto?
+  url: "about/"
+  
+- title: Categorías
+  url: "categories/"
+  
 - title: Privacy Policy
   url: "privacy-policy/"
-
-
+  
+- title: Conoce SabinasHidalgo.NL
+  url: https://sabinashidalgo.nl/
+  class: "ml-2 btn btn-dark text-white px-3"
+  external: true
 
 #- title: Download
 #  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
