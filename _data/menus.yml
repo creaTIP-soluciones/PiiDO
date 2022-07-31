@@ -41,7 +41,7 @@ footermenu:
 - title: Privacy Policy
   url: "privacy-policy/"
   
-- title: Conoce SabinasHidalgo.NL
+- title: SabinasHidalgo.NL
   url: https://sabinashidalgo.nl/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
