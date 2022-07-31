@@ -26,14 +26,16 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Inicio
   url: ""
 
+- title: Anúnciate en PiiDO
+  url: "anunciate/"
+  
 - title: Privacy Policy
   url: "privacy-policy/"
 
-- title: Contact
-  url: "contact/"
+
 
 #- title: Download
 #  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
