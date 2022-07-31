@@ -7,7 +7,7 @@ image: assets/images/ii/PiiDOpmx-fneg-620x140.png
 
 #### ¿Quieres que tu negocio sea anunciado?
 
-Totalmente <b>SIN costo</b> para ti o tus clientes. Sólo tienes que
+Hacerlo es totalmente <b>SIN costo</b> para ti y/o tus clientes. Sólo tienes que
 
 **Comunicarte** por <b>WhatsApp</b> al [824-100-5820][WA1] (sólo toca el enlace)
 
@@ -55,7 +55,7 @@ creaTIP Soluciones ; Estamos en [Facebook][FB]
 
 <center>
 	<span style="font-size: xx-small;">
-		<!--Palabras Clave-->anunciate anúnciate anunciar anuncio
+		<!--Palabras Clave-->anunciate anúnciate anunciar anuncio negocio negocios
 	</span>
 </center>
 
