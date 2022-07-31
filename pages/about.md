@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Ésto es PiiDO.mx
 permalink: "/about/"
 image: assets/images/ii/un-concepto-de.png
 ---
@@ -17,7 +17,7 @@ Recuerda: #ConsumeLocal
 
 <div class="rounded mb-3 hero2">
   <div class="row align-items-center justify-content-between">
-    <div class="col-xs-5 col-md-4">
+    <div class="col-xs-7 col-md-5">
       <h5 class="font-weight-bold mb-3 serif-font">Tu directorio de <br />Negocios Locales</h5>
       <p class="lead mb-3">Con PiiDO.mx encuentras negocios de todo tipo en Sabinas Hidalgo N.L., y cercanías. Recuerda: #ConsumeLocal</p>
       <!-- <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a> -->
