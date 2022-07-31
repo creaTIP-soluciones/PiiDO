@@ -8,7 +8,7 @@ topmenu:
   url: "about/"
 
 - title: Categorías
-  url: "/categories.html"
+  url: "categories.html"
   
 #- title: Contact
 #  url: "contact/"
