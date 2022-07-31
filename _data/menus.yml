@@ -4,11 +4,14 @@ topmenu:
 - title: Inicio
   url: ""
 
-- title: About
+- title: ¿Qué es ésto?
   url: "about/"
 
-- title: Contact
-  url: "contact/"
+- title: Categorías
+  url: "/categories.html"
+  
+#- title: Contact
+#  url: "contact/"
 
 - title: SabinasHidalgo.NL
   url: https://sabinashidalgo.nl/
