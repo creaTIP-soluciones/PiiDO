@@ -23,7 +23,7 @@ Recuerda: #ConsumeLocal
       <!-- <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a> -->
       <a href="{{site.baseurl}}/anunciate" class="btn btn-dark text-white px-5 btn-lg">Anúnciate</a>  <br />con nosotros
     </div>
-    <div class="col-xs-5 col-md-4 text-right pl-1 pl-lg-4">
+    <div class="col-xs-7 col-md-5 text-right pl-1 pl-lg-4">
       <!-- <img class="intro" height="500" src="{{site.baseurl}}/assets/images/intro.svg"> --> 
         <img class="intro" height="150" src="{{site.baseurl}}/assets/images/marketshop-svgrepo-com4.svg"> 
     </div>
