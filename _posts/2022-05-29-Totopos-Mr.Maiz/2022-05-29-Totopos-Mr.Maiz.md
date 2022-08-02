@@ -2,7 +2,7 @@
 layout: post
 title:  "Totopos Mr. Maíz"
 author: tip
-categories: [?????]
+categories: [Sabinas Hidalgo, snacks]
 permalink: "/totopos-mr-maiz/"
 image: assets/images/ii-negocios/37LOGO.png
 ---
