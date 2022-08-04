@@ -2,7 +2,7 @@
 layout: post
 title:  "Fiscal Sabinas"
 author: tip
-categories: [servicios, asesorias, pagos, impuestos, contabilidad, Sabinas Hidalgo]
+categories: [asesorias, contabilidad, impuestos, pagos, Sabinas Hidalgo, servicios]
 permalink: "/fiscal-sabinas/"
 image: assets/images/ii-negocios/29LOGO.png
 ---

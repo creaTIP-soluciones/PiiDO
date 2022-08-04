@@ -2,7 +2,7 @@
 layout: post
 title:  "Dental Care"
 author: tip
-categories: [servicios, consultorios, medicos, dentistas, Sabinas Hidalgo]
+categories: [consultorios, dentistas, medicos, Sabinas Hidalgo, servicios]
 permalink: "/dental-care/"
 image: assets/images/ii-negocios/39LOGO.png
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "YNNA Grosery Store"
 author: tip
-categories: [carnes, Sabinas Hidalgo, snacks, productos, importaciones]
+categories: [carnes, importaciones, productos, Sabinas Hidalgo, snacks]
 permalink: "/ynna-grosery-store/"
 image: assets/images/ii-negocios/40LOGO.png
 ---

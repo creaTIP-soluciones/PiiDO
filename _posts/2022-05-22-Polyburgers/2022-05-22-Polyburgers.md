@@ -2,7 +2,7 @@
 layout: post
 title:  "Polyburgers"
 author: tip
-categories: [hamburguesas, hotdogs, tacos, Sabinas Hidalgo]
+categories: [hamburguesas, hotdogs, Sabinas Hidalgo, tacos]
 permalink: "/polyburgers/"
 image: assets/images/ii-negocios/36LOGO.png
 ---

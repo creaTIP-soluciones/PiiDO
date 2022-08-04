@@ -2,7 +2,7 @@
 layout: post
 title:  "Chorizo Artesanal “El Corral”"
 author: tip
-categories: [chorizo, artesanal, Sabinas Hidalgo]
+categories: [artesanal, chorizo, Sabinas Hidalgo]
 permalink: "/chorizo-artesanal-el-corral/"
 image: assets/images/ii-negocios/15LOGO.png
 ---

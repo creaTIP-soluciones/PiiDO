@@ -2,7 +2,7 @@
 layout: post
 title:  "Midori Sushi"
 author: tip
-categories: [comidas, sushis, Sabinas Hidalgo]
+categories: [comidas, Sabinas Hidalgo, sushis]
 permalink: "/midori-sushi/"
 image: assets/images/ii-negocios/11LOGO.png
 ---

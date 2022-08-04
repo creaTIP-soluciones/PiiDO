@@ -2,7 +2,7 @@
 layout: post
 title:  "Just Sabinas"
 author: tip
-categories: [aromaterapia, belleza, cremas, cosmeticos, Sabinas Hidalgo]
+categories: [aromaterapia, belleza, cosmeticos, cremas, Sabinas Hidalgo]
 permalink: "/just-sabinas/"
 image: assets/images/ii-negocios/08LOGO.png
 ---
