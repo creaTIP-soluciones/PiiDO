@@ -2,7 +2,7 @@
 layout: post
 title:  "BeerBurger"
 author: tip
-categories: [alitas, boneless, hamburguesas, Sabinas Hidalgo]
+categories: [alitas, boneless, hamburguesas, sabinas Hidalgo]
 permalink: "/beerburger/"
 image: assets/images/ii-negocios/33LOGO.png
 ---
