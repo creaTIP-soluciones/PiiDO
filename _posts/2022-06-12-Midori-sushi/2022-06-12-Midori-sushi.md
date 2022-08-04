@@ -68,7 +68,7 @@ De $70 a $130
 
 ##### Dirección :
 
-Lucrecia Toris 175, Josefa Zozaya, Sabinas Hidalgo, N.L.
+Lucrecia Toris Nº 175, Josefa Zozaya, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

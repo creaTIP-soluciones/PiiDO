@@ -55,7 +55,7 @@ De $200 a $1,000
 
 ##### Dirección :
 
-Insurgentes 465 (esquina con Argentina) colonia Enrique Lozano, Sabinas Hidalgo
+Insurgentes Nº 465 (esquina con Argentina), colonia Enrique Lozano, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

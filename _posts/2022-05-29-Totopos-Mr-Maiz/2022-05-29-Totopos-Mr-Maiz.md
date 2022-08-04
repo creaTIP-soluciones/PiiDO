@@ -59,7 +59,7 @@ A partir de $30
 
 ##### Dirección :
 
-Aldama #514, Barrio de Aguacate, Sabinas Hidalgo
+Aldama Nº 514, Barrio de Aguacate, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

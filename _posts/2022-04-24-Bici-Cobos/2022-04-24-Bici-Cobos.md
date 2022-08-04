@@ -50,7 +50,7 @@ Refacciones: de $0.50 a $600 ; Mano de obra: de $5.00 a $200.00
 
 ##### Dirección :
 
-Zuazua #125 pte, Centro, Sabinas Hidalgo, N.L.
+Zuazua Nº 125 pte, Centro, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

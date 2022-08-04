@@ -58,7 +58,7 @@ Diferentes paquetes desde $1,950 a $2,500
 
 ##### Dirección :
 
-Calle Pablo Ancira 665 entre Ocampo y Guerrero, Barrio del Aguacate, Sabinas Hidalgo, N.L.
+Calle Pablo Ancira Nº 665; entre Ocampo y Guerrero, Barrio del Aguacate, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

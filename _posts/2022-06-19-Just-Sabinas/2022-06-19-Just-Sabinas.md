@@ -58,7 +58,7 @@ A partir de $179
 
 ##### Dirección :
 
-San José de Raíces 446, Fovissste, Sabinas Hidalgo, N.L.
+San José de Raíces Nº 446, Fovissste, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

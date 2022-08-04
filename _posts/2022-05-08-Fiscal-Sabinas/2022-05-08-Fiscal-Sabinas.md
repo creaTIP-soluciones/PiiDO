@@ -68,7 +68,7 @@ Costos dependiendo el trámite
 
 ##### Dirección :
 
-Mier y Terán 1050 (entre Ignacio Ramírez y Altamirano), Centro, Sabinas Hidalgo, N.L.
+Mier y Terán Nº 1050 (entre Ignacio Ramírez y Altamirano), Centro, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

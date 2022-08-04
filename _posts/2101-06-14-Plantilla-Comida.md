@@ -68,7 +68,7 @@ De $25 a $60
 
 ##### Dirección :
 
-Morelos #203, Centro Sonora, Sabinas Hidalgo, N.L.
+Morelos Nº 203, Centro Sonora, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

@@ -69,7 +69,7 @@ De $55 a $210
 
 ##### Dirección :
 
-Alfredo Bonfil 295, Lázaro Cárdenas, Sabinas Hidalgo
+Alfredo Bonfil Nº 295, Lázaro Cárdenas, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

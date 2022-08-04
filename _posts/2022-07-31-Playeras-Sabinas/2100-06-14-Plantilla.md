@@ -64,7 +64,7 @@ Desde $120 hasta $400. Por cotización
 
 ##### Dirección :
 
-Jose Guadiana #180, Real Las Palmas, Sabinas Hidalgo, N.L.
+Jose Guadiana Nº 180, Real Las Palmas, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

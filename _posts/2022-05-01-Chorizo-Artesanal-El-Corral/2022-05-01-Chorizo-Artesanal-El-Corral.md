@@ -56,7 +56,7 @@ Chorizo de puerco elaborado de manera artesanal
 
 ##### Dirección :
 
-Gregorio Ramírez 930, Pablo de Los Santos, Sabinas Hidalgo, N.L.
+Gregorio Ramírez Nº 930, Pablo de Los Santos, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

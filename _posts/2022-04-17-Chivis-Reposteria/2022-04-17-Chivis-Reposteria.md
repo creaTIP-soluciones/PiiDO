@@ -40,7 +40,7 @@ Se maneja sobre pedido
 
 ##### Dirección :
 
-Xochimilco # 560, Valle del Sol, Sabinas Hidalgo, N.L.
+Xochimilco Nº 560, Valle del Sol, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

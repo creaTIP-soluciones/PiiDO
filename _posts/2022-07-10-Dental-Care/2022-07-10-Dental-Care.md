@@ -63,7 +63,7 @@ A partir de $200
 
 ##### Dirección :
 
-Calle Naranjo 910, Colonia Pablo de los Santos, Sabinas Hidalgo, N.L.
+Calle Naranjo Nº 910, Colonia Pablo de los Santos, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 

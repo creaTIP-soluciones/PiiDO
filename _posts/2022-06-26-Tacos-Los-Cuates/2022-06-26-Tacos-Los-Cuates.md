@@ -62,7 +62,7 @@ De $65 a $100
 
 ##### Dirección :
 
-Mina #215, Centro, Sabinas Hidalgo, N.L.
+Mina Nº 215, Centro, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 
