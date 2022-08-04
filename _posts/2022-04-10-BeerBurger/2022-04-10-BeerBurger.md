@@ -2,7 +2,7 @@
 layout: post
 title:  "BeerBurger"
 author: tip
-categories: [alitas, boneless, hamburguesas, sabinas Hidalgo]
+categories: [alitas, boneless, hamburguesas, Sabinas Hidalgo]
 permalink: "/beerburger/"
 image: assets/images/ii-negocios/33LOGO.png
 ---
@@ -65,7 +65,7 @@ De $60 a $95
 
 ##### Dirección :
 
-Niños Heroes 731, Centro, Sabinas Hidalgo, N.L.
+Niños Heroes Nº 731, Centro, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 
