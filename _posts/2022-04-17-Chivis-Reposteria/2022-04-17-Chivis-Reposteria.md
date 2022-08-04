@@ -57,7 +57,7 @@ Xochimilco # 560, Valle del Sol, Sabinas Hidalgo, N.L.
 
 <!-- ===== 2da IMAGEN ===== -->
 <center>
-    <img src="{{ site.baseurl }}/assets/images/ii-negocios/21producto.png" alt="Chivis-Reposteria" style="height: 300px;"/>
+    <img src="{{ site.baseurl }}/assets/images/ii-negocios/23producto.png" alt="Chivis-Reposteria" style="height: 300px;"/>
 </center>
 
 <br />
