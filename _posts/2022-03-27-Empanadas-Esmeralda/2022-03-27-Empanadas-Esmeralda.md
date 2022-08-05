@@ -20,8 +20,7 @@ Por cotización
 
 <table border="2" bordercolor="#8299b3" cellpadding="4" cellspacing="5">
 <colgroup>
-    <col width="50%" />
-    <col width="50%" />
+    <col width="100%" />
 </colgroup>
     <tbody>
         <tr>
