@@ -4,7 +4,7 @@ title:  "Pastelería Irma"
 author: tip
 categories: [postres, Sabinas Hidalgo]
 permalink: "/pasteleria-irma/"
-image: assets/images/ii-negocios/__XXX__LOGO.png
+image: assets/images/ii-negocios/24LOGO.png
 ---
 #### Pasteles para tu evento social
 
@@ -66,7 +66,7 @@ Porfirio Díaz Nº 705, esquina con Regules, Centro, Sabinas Hidalgo, N.L.
 
 <!-- ===== 2da IMAGEN ===== -->
 <center>
-    <img src="{{ site.baseurl }}/assets/images/ii-negocios/21producto.png" alt="Pasteleria-Irma" style="height: 300px;"/>
+    <img src="{{ site.baseurl }}/assets/images/ii-negocios/24producto.png" alt="Pasteleria-Irma" style="height: 300px;"/>
 </center>
 
 <br />
