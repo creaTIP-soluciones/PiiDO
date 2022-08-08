@@ -2,35 +2,31 @@
 layout: post
 title:  "Servicios FRAGO"
 author: tip
-categories: [?????]
--v-v-v-v-
-gruas, 
-renta, 
-Sabinas Hidalgo, 
-servicios, 
--^-^-^-^-
-permalink: "/Servicios FRAGO/"
-image: assets/images/ii-negocios/__XXX__LOGO.png
+categories: [gruas, renta, Sabinas Hidalgo, servicios]
+permalink: "/servicios-frago/"
+image: assets/images/ii-negocios/20LOGO.png
 ---
-#### xxx_FRASE_xxx
+#### Renta de Grúas
 
 ##### Productos/Servicios :
 
-: Renta de grúas
+Renta de grúas
 
 ##### Precios :
 
-: Cotización
+Por cotización
 
 ##### Horario :
 
 <table border="2" bordercolor="#8299b3" cellpadding="4" cellspacing="5">
-    <colgroup>
-        <col width="50%" />
-        <col width="50%" />
-    </colgroup>
-
-None
+<colgroup>
+    <col width="100%" />
+</colgroup>
+    <tbody>
+        <tr>
+            <td>08:00 a.m. - 07:00 p.m.</td>
+        </tr>
+    </tbody>
 </table>
 
 ##### Presencia en Internet :
@@ -39,25 +35,21 @@ None
 
 ##### Teléfono(s) :
 
-- 824-xxx-xxxx ; [LLAMAR][Tel1]
-- 824-xxx-xxxx ; [LLAMAR][Tel2]
+- 824-102-0442 ; [LLAMAR][Tel1]
 
 ##### Whatsapp :
 
-- 824-xxx-xxxx ; [Contactar por WhatsApp][WA1]
-- 824-xxx-xxxx ; [Contactar por WhatsApp][WA2]
+- 824-102-0442 ; [Contactar por WhatsApp][WA1]
 
 [FB]: https://www.facebook.com/francisco.alanis.180072/
 
 [Tel1]: tel:+528241020442
-[Tel2]: tel:+528241020442
 
 [WA1]: https://wa.me/528241020442?text=Hola,%20saludos%20desde%20PiiDO.
-[WA2]: https://wa.me/528241020442?text=Hola,%20saludos%20desde%20PiiDO.
 
 ##### Dirección :
 
-: Insurgentes 1535, Miguel Hidalgo, Sabinas Hidalgo
+Insurgentes Nº 1535, Miguel Hidalgo, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 
@@ -74,7 +66,7 @@ None
 
 <!-- ===== 2da IMAGEN ===== -->
 <center>
-    <img src="{{ site.baseurl }}/assets/images/ii-negocios/21producto.png" alt="Playeras-Sabinas" style="height: 300px;"/>
+    <img src="{{ site.baseurl }}/assets/images/ii-negocios/20servicio.png" alt="Servicios-FRAGO" style="height: 300px;"/>
 </center>
 
 <br />
@@ -84,7 +76,7 @@ None
 {% include disclaimer-ii.md %}
 <center>
 	<span style="font-size: xx-small;">
-		<!--Palabras Clave-->servicio servicios grua gruas renta rentas
+		<!--Palabras Clave-->grua gruas renta rentas servicio servicios 
 	</span>
 </center>
 
