@@ -49,7 +49,7 @@ Cupcakes $10 a $15 ; Pasteles desde $30
 
 ##### Dirección :
 
-Porfirio Díaz Nº 705, esquina con Regules, Centro, Sabinas Hidalgo, N.L.
+Porfirio Díaz Nº 705 (esquina con Regules), Centro, Sabinas Hidalgo, N.L.
 
 ##### Ubicación :
 
