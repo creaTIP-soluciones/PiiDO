@@ -15,7 +15,7 @@ Aunque la idea del directorio de negocios locales inició unos meses antes, el 2
 
 Gracias por ser parte de él 
 
-( Y si aún no lo eres, <a href="{{site.baseurl}}/anunciate" class="btn btn-dark text-white px-1 btn-md"><strong>¿qué esperas?</strong></a> 😉 )
+( Y si aún no lo eres, <a href="{{site.baseurl}}/anunciate"><strong>¿qué esperas?</strong></a> 😉 )
 
 Recuerda, #ConsumeLocal
 
