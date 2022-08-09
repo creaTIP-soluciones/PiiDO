@@ -13,7 +13,9 @@ image: assets/images/ii-negocios/pr1mer-aniversario.png
 
 Aunque la idea del directorio de negocios locales inició unos meses antes, el 20/Sept/2020 se compró el dominio [PiiDO.mx][ii] reafirmando que el proyecto iba en serio
 
-Gracias por ser parte de él 
+
+<div class="bg-primary text-white m-1">Gracias por ser parte de él</div>
+
 
 ( Y si aún no lo eres, <a href="{{site.baseurl}}/anunciate"><strong>¿qué esperas?</strong></a> 😉 )
 
