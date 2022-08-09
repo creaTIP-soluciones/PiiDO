@@ -32,8 +32,3 @@ Recuerda, #ConsumeLocal
     <img src="{{ site.baseurl }}/assets/images/ii/un-concepto-de.png" alt="Anunciate-en-PiiDO" style="height: 200px;"/>
 </center>
 
-
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
-
-
