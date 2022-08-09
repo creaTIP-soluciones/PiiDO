@@ -9,16 +9,15 @@ image: assets/images/ii-negocios/pr1mer-aniversario.png
 
 #### ¿Tan pronto pasó un año?
 
-<p class="text-justify">
-    ¡¡Así es!! 😃
+¡¡Así es!! 😃
     
-    Aunque la idea del directorio de negocios locales inició unos meses antes, el 20/Sept/2020 se compró el dominio [PiiDO.mx][ii] reafirmando que el proyecto iba en serio
-    
+Aunque la idea del directorio de negocios locales inició unos meses antes, el 20/Sept/2020 se compró el dominio [PiiDO.mx][ii] reafirmando que el proyecto iba en serio
+
+<p class="font-weight-bold">
+    <span style="color: #0b5394; font-size: x-large;">
+        Gracias por ser parte de él
+    </span>
 </p>
-
-<p class="font-weight-bold" style="color: #0b5394">Gracias por ser parte de él</p>
-
-<b><span style="color: #0b5394; font-size: x-large;">Gracias por ser parte de él</span></b>
 
 ( Y si aún no lo eres, <a href="{{site.baseurl}}/anunciate"><strong>¿qué esperas?</strong></a> 😉 )
 
