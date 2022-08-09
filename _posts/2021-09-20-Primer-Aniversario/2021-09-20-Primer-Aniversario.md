@@ -15,7 +15,7 @@ Aunque la idea del directorio de negocios locales inició unos meses antes, el 2
 
 
 <div class="bg-primary text-white m-1">Gracias por ser parte de él</div>
-
+<p class="text-info"><strong>Gracias por ser parte de él</strong></p>
 
 ( Y si aún no lo eres, <a href="{{site.baseurl}}/anunciate"><strong>¿qué esperas?</strong></a> 😉 )
 
