@@ -7,7 +7,7 @@ permalink: "/aniversario-01/"
 image: assets/images/ii-negocios/pr1mer-aniversario.png
 ---
 
-¿Tan pronto pasó un año?
+#### ¿Tan pronto pasó un año?
 
 ¡¡Así es!! 😃
 
@@ -15,13 +15,12 @@ Aunque la idea del directorio de negocios locales inició unos meses antes, el 2
 
 Gracias por ser parte de él 
 
-(Y si aún no lo eres, [¿qué esperas?][anunciate] 😉)
+( Y si aún no lo eres, <a href="{{site.baseurl}}/anunciate" class="btn btn-dark text-white px-5 btn-lg">¿qué esperas?</a> 😉 )
 
 Recuerda, #ConsumeLocal
 
 
 [ii]: http://www.piido.mx/
-[anunciate] : {{site.baseurl}}/anunciate
 
 
 <!-- ===== 2da IMAGEN ===== --> 
@@ -30,7 +29,6 @@ Recuerda, #ConsumeLocal
 </center>
 
 
-<a href="{{site.baseurl}}/anunciate" class="btn btn-dark text-white px-5 btn-lg">Anúnciate_____</a>
 
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
