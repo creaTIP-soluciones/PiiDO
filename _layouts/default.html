@@ -26,6 +26,8 @@ gtag('js', new Date());
 gtag('config', '{{ site.google_analytics }}');
 </script>
 {% endif %}
+    
+    {% include google_adsense.html %}
    
 </head>   
     
@@ -109,8 +111,6 @@ gtag('config', '{{ site.google_analytics }}');
 ================================================== -->    
 <main class="container">   
       {{ content }}  
-    
-      {% include google_adsense.html %}
 </main>
 
 <!-- Footer
