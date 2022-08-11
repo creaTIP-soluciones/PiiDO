@@ -27,6 +27,7 @@ Costo variable por pieza
         <tr>
             <td>Lunes Martes Miércoles Jueves Viernes Sábado</td>
             <td>09:00 a.m. - 07:00 p.m.</td>
+        </tr>
     </tbody>
 </table>
 
