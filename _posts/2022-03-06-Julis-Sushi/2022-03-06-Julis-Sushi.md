@@ -16,6 +16,8 @@ Sushi, Boneless, Pollo agridulce, Arroz Yakimeshi, Aros de cebolla.
 
 De $70 a $200
 
+##### Horario :
+
 <table border="2" bordercolor="#8299b3" cellpadding="4" cellspacing="5">
 <colgroup>
     <col width="50%" />
