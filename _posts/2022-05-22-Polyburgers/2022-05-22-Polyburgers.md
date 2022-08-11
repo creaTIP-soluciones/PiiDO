@@ -86,7 +86,7 @@ Alfredo Bonfil Nº 295, Lázaro Cárdenas, Sabinas Hidalgo, N.L.
 
 <!-- ===== 2da IMAGEN ===== -->
 <center>
-    <img src="{{ site.baseurl }}/assets/images/ii-negocios/21producto.png" alt="Playeras-Sabinas" style="height: 300px;"/>
+    <img src="{{ site.baseurl }}/assets/images/ii-negocios/36producto.png" alt="Playeras-Sabinas" style="height: 300px;"/>
 </center>
 
 <br />
