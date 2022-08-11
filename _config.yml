@@ -1,7 +1,7 @@
 title: "PiiDOmx"
 #email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "/PiiDO"
+baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/ii/Logo-200x75.png'
 favicon: 'assets/images/ii/favicon.ico'
