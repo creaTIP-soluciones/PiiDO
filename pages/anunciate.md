@@ -50,8 +50,8 @@ creaTIP Soluciones ; Estamos en [Facebook][FB]
 <br />
 #### area de pruebas
 
-prueba de enlace alternativo_1 de [WhatsApp][WA3]
-prueba de enlace alternativo_2 de [WhatsApp][WA4]
+prueba de enlace alternativo_1 de [WhatsApp][WA3] <br />
+prueba de enlace alternativo_2 de [WhatsApp][WA4] <br />
 
 <br />
 
