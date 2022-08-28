@@ -28,16 +28,6 @@ creaTIP Soluciones ; Estamos en [Facebook][FB]
 <br />
 
 
-<br />
-
-#### area de pruebas
-<ul>
-    <li>prueba de enlace alternativo_1 de [WhatsApp][WA3]</li>
-    <li>prueba de enlace alternativo_2 de [WhatsApp][WA4]</li>
-</ul>
-<br />
-
-
 [FB]: https://www.facebook.com/creaTipSolucionesSH/
 
 [Tel1]: tel:+528241005820
@@ -55,6 +45,16 @@ creaTIP Soluciones ; Estamos en [Facebook][FB]
 </center>
 
 <br />
+
+
+<br />
+#### area de pruebas
+<ul>
+    <li>prueba de enlace alternativo_1 de [WhatsApp][WA3]</li>
+    <li>prueba de enlace alternativo_2 de [WhatsApp][WA4]</li>
+</ul>
+<br />
+
 
 <!-- Disclaimer & palabras clave
 ================================================== -->
