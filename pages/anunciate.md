@@ -35,7 +35,8 @@ creaTIP Soluciones ; Estamos en [Facebook][FB]
 [WA1]: https://wa.me/528241005820?text=Hola,%20me%20quiero%20anunciar
 [WA2]: https://wa.me/528241005820?text=Hola,%20conozco%20éste%20negocio
 
-
+[WA3]: https://api.whatsapp.com/send/?phone=528241005820&text=Hola%2C+me+quiero+anunciar&type=phone_number&app_absent=1
+[WA4]: https://web.whatsapp.com/send?phone=528241005820&text=Hola%2C+me+quiero+anunciar&type=phone_number&app_absent=1
 
 
 <!-- ===== 2da IMAGEN ===== --> 
@@ -48,13 +49,11 @@ creaTIP Soluciones ; Estamos en [Facebook][FB]
 
 <br />
 #### area de pruebas
-<ul>
-    <li>prueba de enlace alternativo_1 de [WhatsApp][WA3]</li>
-    <li>prueba de enlace alternativo_2 de [WhatsApp][WA4]</li>
-</ul>
+
+prueba de enlace alternativo_1 de [WhatsApp][WA3]
+prueba de enlace alternativo_2 de [WhatsApp][WA4]
+
 <br />
-[WA3]: https://api.whatsapp.com/send/?phone=528241005820&text=Hola%2C+me+quiero+anunciar&type=phone_number&app_absent=1
-[WA4]: https://web.whatsapp.com/send?phone=528241005820&text=Hola%2C+me+quiero+anunciar&type=phone_number&app_absent=1
 
 
 <!-- Disclaimer & palabras clave
