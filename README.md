@@ -4,7 +4,7 @@
 
 ### Copyright
 
-Copyright (C) 2022 justHector
+Copyright (C) 2022 creaTIP Soluciones
 
 Jekyll Theme - Affiliates : designed and developed by [wowthemesnet](https://www.wowthemes.net), *free* under MIT license.
 
