@@ -1,6 +1,6 @@
 # PiiDO.mx
 
-Éste es un proyecto de [justHector](https://twitter.com/_justHector) para [PiiDOmx](http://www.piido.mx/)
+[PiiDOmx](http://www.piido.mx/) es un proyecto de creaTIP Soluciones, por [justHector](https://twitter.com/_justHector) 
 
 ### Copyright
 
