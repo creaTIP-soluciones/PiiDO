@@ -1,9 +1,9 @@
 #### area de pruebas
 
 
-prueba de enlace alternativo_1 de [WhatsApp wa me][WA2] <br />
-prueba de enlace alternativo_2 de [WhatsApp api][WA3] <br />
-prueba de enlace alternativo_3 de [WhatsApp web][WA4] <br />
+prueba de enlace alternativo_1 de [WhatsApp wa me][WA1] <br />
+prueba de enlace alternativo_2 de [WhatsApp api][WA2] <br />
+prueba de enlace alternativo_3 de [WhatsApp web][WA3] <br />
 prueba de enlace alternativo_4 de [WhatsApp :][WA4] <br />
 
 creaTIP Soluciones ; Estamos en [Facebook][FB]
@@ -20,10 +20,10 @@ creaTIP Soluciones ; Estamos en [Facebook][FB]
 
 [FB]: https://www.facebook.com/creaTipSolucionesSH/
 
-[WA2]: https://wa.me/528241005820?text=Hola,%20conozco%20éste%20negocio
-[WA3]: https://api.whatsapp.com/send/?phone=528241005820&text=Hola%2C+me+quiero+anunciar
-[WA4]: https://web.whatsapp.com/send?phone=528241005820&text=Hola%2C+me+quiero+anunciar
-[WA5]: whatsapp://send?text=Hola%2C+me+quiero+anunciar&phone=528241005820
+[WA1]: https://wa.me/528241005820?text=Hola,%20conozco%20éste%20negocio
+[WA2]: https://api.whatsapp.com/send/?phone=528241005820&text=Hola%2C+me+quiero+anunciar
+[WA3]: https://web.whatsapp.com/send?phone=528241005820&text=Hola%2C+me+quiero+anunciar
+[WA4]: whatsapp://send?text=Hola%2C+me+quiero+anunciar&phone=528241005820
 
 #### END
 
