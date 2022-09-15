@@ -1,10 +1,10 @@
 #### area de pruebas
 
 
-prueba de enlace alternativo_1 de [WhatsApp wa me][WA1] <br />
-prueba de enlace alternativo_2 de [WhatsApp api][WA2] <br />
-prueba de enlace alternativo_3 de [WhatsApp web][WA3] <br />
-prueba de enlace alternativo_4 de [WhatsApp :][WA4] <br />
+enlace alterno_1 de [WhatsApp wa me][WA1] <br />
+enlace alterno_2 de [WhatsApp api][WA2] <br />
+enlace alterno_3 de [WhatsApp web][WA3] <br />
+enlace alterno_4 de [WhatsApp :][WA4] <br />
 
 creaTIP Soluciones ; Estamos en [Facebook][FB] <br />
 
