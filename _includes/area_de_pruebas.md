@@ -1,7 +1,7 @@
 #### area de pruebas
 
 
-WhatsApp ; [Abrir APP][WA1a] ; [Abrir WEB (wa me)][WA2w] ; [Abrir WEB (api)][WA3w] <br />
+WhatsApp ; [Abrir APP][WA1a]{: .btn .btn--info} ; [Abrir WEB (wa me)][WA2w] ; [Abrir WEB (api)][WA3w] <br />
 
 
 creaTIP Soluciones <br />
@@ -36,3 +36,6 @@ y en Instagram [Abrir APP][IGa] ; [Abrir WEB][IGw] <br />
 #### END
 
 
+<a href="{{site.baseurl}}/anunciate" class="btn btn-dark text-white px-5 btn-lg">Anúnciate</a>
+
+class="btn btn-primary btn-sm"
