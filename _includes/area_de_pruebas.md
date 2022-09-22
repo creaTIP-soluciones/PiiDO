@@ -35,7 +35,3 @@ y en Instagram [Abrir APP][IGa]{: .btn .btn-primary .text-white .btn-sm} ; [Abri
 
 #### END
 
-
-<a href="{{site.baseurl}}/anunciate" class="btn btn-dark text-white px-5 btn-lg">Anúnciate</a>
-
-class="btn btn-primary btn-sm"
