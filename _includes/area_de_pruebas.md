@@ -5,8 +5,8 @@ WhatsApp ; [Abrir APP][WA1a]{: .btn .btn--info} ; [Abrir WEB (wa me)][WA2w] ; [A
 
 
 creaTIP Soluciones <br />
-Estamos en Facebook [Abrir APP][FBa] ; [Abrir WEB][FBw] <br />
-y en Instagram [Abrir APP][IGa] ; [Abrir WEB][IGw] <br />
+Estamos en Facebook [Abrir APP][FBa]{: .btn} ; [Abrir WEB][FBw] <br />
+y en Instagram [Abrir APP][IGa]{: .btn .btn--primary} ; [Abrir WEB][IGw] <br />
 
 
 824-100-5820 ; [LLÁMANOS +52][Tel1] (sólo toca el enlace) <br />
