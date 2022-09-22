@@ -20,6 +20,8 @@ y en Instagram [Abrir APP][IGa]{: .btn .btn-outline-primary .text-black .btn-sm}
 
 [ Ver en Google Maps ][GM]
 
+[ Ver en Google Maps ][GM]{: .btn .btn-outline-dark .text-white .btn-sm}
+
 
 [Tel1]: tel:+528241005820
 [Tel2]: tel:528241005820
