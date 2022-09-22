@@ -6,9 +6,11 @@ WhatsApp ; [Abrir APP][WA1a]{: .btn .btn-dark .text-white .btn-sm} ; [Abrir WEB 
 
 creaTIP Soluciones <br />
 Estamos en Facebook [Abrir APP][FBa]{: .btn .btn-info .text-white .btn-sm} ; [Abrir WEB][FBw] <br />
-Estamos en Facebook [Abrir APP][FBa]{: .btn .btn-outline-info .text-black .btn-sm} <br />
 y en Instagram [Abrir APP][IGa]{: .btn .btn-primary .text-white .btn-sm} ; [Abrir WEB][IGw] <br />
-y en Instagram [Abrir APP][IGa]{: .btn .btn-outline-primary .text-black .btn-sm}
+
+
+Estamos en Facebook [Abrir APP][FBa]{: .btn .btn-outline-info .text-black .btn-sm} ; [Abrir WEB][FBw] <br />
+y en Instagram [Abrir APP][IGa]{: .btn .btn-outline-primary .text-black .btn-sm} ; [Abrir WEB][IGw] <br />
 
 
 824-100-5820 ; [LLÁMANOS +52][Tel1] (sólo toca el enlace) <br />
