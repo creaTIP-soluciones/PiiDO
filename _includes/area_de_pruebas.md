@@ -5,9 +5,6 @@ WhatsApp ; [Abrir APP][WA1a]{: .btn .btn-dark .text-white .btn-sm} ; [Abrir WEB 
 
 
 creaTIP Soluciones <br />
-Estamos en Facebook [Abrir APP][FBa]{: .btn} ; [Abrir WEB][FBw] <br />
-y en Instagram [Abrir APP][IGa]{: .btn} ; [Abrir WEB][IGw] <br />
-
 Estamos en Facebook [Abrir APP][FBa]{: .btn .btn-info .text-white .btn-sm} ; [Abrir WEB][FBw] <br />
 y en Instagram [Abrir APP][IGa]{: .btn .btn-primary .text-white .btn-sm} ; [Abrir WEB][IGw] <br />
 
