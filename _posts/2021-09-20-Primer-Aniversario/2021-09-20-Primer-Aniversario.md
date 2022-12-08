@@ -2,7 +2,7 @@
 layout: post
 title:  "Primer Aniversario"
 author: tip
-categories: [Sabinas Hidalgo]
+categories: [Sabinas Hidalgo, aniversario]
 permalink: "/aniversario-01/"
 image: assets/images/ii-negocios/pr1mer-aniversario.png
 ---
