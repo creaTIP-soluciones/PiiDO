@@ -15,7 +15,7 @@ Hace 2 años se compró el dominio de la página y éste año se estrenó la seg
 
 Y eso no es todo, se está trabajando en más cosas para que los negocios de tu localidad estén en la palma de tu mano.
 
-Recuerda, #ConsumeLocal
+Recuerda, #ConsumeLocal 
 #SabinasHidalgo
 
 … disfruten el diseño súper chido que se hizo en 5 minutos 🙃
