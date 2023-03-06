@@ -1,4 +1,10 @@
-#### area de pruebas
+---
+layout: page
+title: Area de Pruebas
+permalink: "/pruebas/"
+---
+
+#### Area de Pruebas
 
 
 WhatsApp ; [Abrir APP][WA1a]{: .btn .btn-dark .text-white .btn-sm} ; [Abrir WEB (wa me)][WA2w] ; [Abrir WEB (api)][WA3w] <br />

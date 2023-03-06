@@ -46,7 +46,7 @@ creaTIP Soluciones ; Estamos en [Facebook][FB]
 
 {% include ad-in-article-ii.html %}
 
-{% include area_de_pruebas.md %}
+<!--{% include area_de_pruebas.md %}-->
 
 <br />
 
