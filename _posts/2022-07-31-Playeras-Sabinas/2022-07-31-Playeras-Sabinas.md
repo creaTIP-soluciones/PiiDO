@@ -46,21 +46,17 @@ Desde $120 hasta $400. Por cotización
 ##### Teléfono(s) :
 
 - 824-102-2925 ; [LLAMAR][Tel1]
-- 824-102-6777 ; [LLAMAR][Tel2]
 
 ##### Whatsapp :
 
 - 824-102-2925 ; [Contactar por WhatsApp][WA1]
-- 824-102-6777 ; [Contactar por WhatsApp][WA2]
 
 
 [FB]: https://www.facebook.com/PlayerasSabinas/
 
 [Tel1]: tel:+528241022925
-[Tel2]: tel:+528241026777
 
 [WA1]: https://wa.me/528241022925?text=Hola,%20saludos%20desde%20PiiDO
-[WA2]: https://wa.me/528241026777?text=Hola,%20saludos%20desde%20PiiDO
 
 ##### Dirección :
 
