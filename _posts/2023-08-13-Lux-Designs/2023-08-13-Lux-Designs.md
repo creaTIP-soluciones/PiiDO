@@ -80,7 +80,7 @@ Zuazua Nº 100 (esquina con Porfirio Díaz), Centro, Sabinas Hidalgo, N.L.
 {% include disclaimer-ii.md %}
 <center>
 	<span style="font-size: xx-small;">
-		<!--Palabras Clave-->termo termos personalizada personalizadas personalizado personalizados sticker stickers etiqueta etiquetas llavero llaveros invitacion invitaciones tarjeta tarjetas llavero llaveros vinil viniles
+		<!--Palabras Clave-->termo termos personalizada personalizadas personalizado personalizados etiqueta etiquetas llavero llaveros invitacion invitaciones tarjeta tarjetas llavero llaveros vinil viniles sticker stickers
         
 	</span>
 </center>
