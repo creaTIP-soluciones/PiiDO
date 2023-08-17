@@ -5,8 +5,8 @@
     "theme_color": "#a9bcd0",
     "background_color": "#fdfdfd",
     "display": "standalone",
-    "orientation": "portrait-primary",
-    //"orientation": "portrait",
+    //"orientation": "portrait-primary",
+    "orientation": "portrait",
     "scope": "/",
     "start_url": "index.html",
     
