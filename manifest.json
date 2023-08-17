@@ -1,7 +1,8 @@
 {
     "name": "PiiDOmx",
     "short_name": "PiiDO",
-    "theme_color": "#db4938",
+    //"theme_color": "#db4938",
+    "theme_color": "#a9bcd0",
     "background_color": "#fdfdfd",
     "display": "standalone",
     "orientation": "portrait-primary",
