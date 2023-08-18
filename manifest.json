@@ -1,7 +1,7 @@
 {
     "name": "PiiDOmx",
     "short_name": ".PiiDO.",
-    "start_url": "{{ site.baseurl }}index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#a9bcd0",
